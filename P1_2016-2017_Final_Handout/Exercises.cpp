@@ -46,4 +46,18 @@ int capitalize_first_letter_and_count_words(char* sentence)
 // Exercise 3
 void explosion(char* board, uint x, uint y, uint num_rows, uint row_length)
 {
+
+	int counter = 0;
+		while (counter != 4)
+		{
+			board[y+row_length*counter] = '*';
+			counter++;
+			
+	    }
+		counter = 0;
+		while (counter != 4)
+		{
+			board[row_length*x + counter] = '*';
+			counter++;
+		}
 }
