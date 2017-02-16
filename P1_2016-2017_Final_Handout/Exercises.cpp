@@ -3,14 +3,27 @@
 // Exercise 1
 int is_prime(int number)
 {
-	for (int i = 2; i < number; ++i)
+	int counter = 0;
+	int counter_b = 0;
+
+	while (counter != number)
 	{
-		if (number%i == 0)
+		counter++;
+
+		if (number % counter == 0)
 		{
-			return 0;
+			counter_b++;
 		}
 	}
-	return 1;
+
+	if (counter_b == 2)
+	{
+		return 1;
+	}
+	else
+	{
+		return 0;
+	}
 }
 
 // Exercise 2

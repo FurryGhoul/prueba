@@ -6,7 +6,7 @@ int main()
 {
 	// Final Exam P1 2016-2017 ----------------------------------
 	printf("Tests for Final Exam P1 2016-2017\n");
-	printf("Student: ENTER YOUR NAME HERE\n");
+	printf("Student: Pandora's Box");
 
 	printf("Exercise 1 -----------------------------------------------------\n");
     int is_seven_prime = is_prime(7);
