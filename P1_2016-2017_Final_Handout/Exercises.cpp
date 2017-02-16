@@ -40,7 +40,23 @@ int strlen(const char* str)
 
 int capitalize_first_letter_and_count_words(char* sentence)
 {
-    return 0;
+	int a = 0;
+	int num_words = 1;
+	if (sentence != nullptr && sentence[0] != '\0')
+	{
+		while (sentence[a] != '\0')
+		{
+			sentence[0] = toupper(sentence[0]);
+			if (sentence[a] == ' ')
+			{
+				sentence[a + 1] = toupper(sentence[a + 1]);
+				num_words++;
+			}
+
+			a++;
+		}
+	}
+    return num_words;
 }
 
 // Exercise 3
