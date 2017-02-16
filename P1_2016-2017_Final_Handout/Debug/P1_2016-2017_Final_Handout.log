@@ -1,0 +1,16 @@
+﻿Build started 07/01/2017 19:42:33.
+     1>Project "E:\C++\UPC Works\2016-2017\Final\Exam\P1_2016-2017_Final_Handout\P1_2016-2017_Final_Handout.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\VisualStudio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>e:\c++\upc works\2016-2017\final\exam\p1_2016-2017_final_handout\main.cpp(76): warning C4474: 'printf' : too many arguments passed for format string
+         e:\c++\upc works\2016-2017\final\exam\p1_2016-2017_final_handout\main.cpp(76): note: placeholders and their parameters expect 3 variadic arguments, but 4 were provided
+       Link:
+         E:\VisualStudio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\C++\UPC Works\2016-2017\Final\Exam\P1_2016-2017_Final_Handout\Debug\P1_2016-2017_Final_Handout.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\C++\UPC Works\2016-2017\Final\Exam\P1_2016-2017_Final_Handout\Debug\P1_2016-2017_Final_Handout.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\C++\UPC Works\2016-2017\Final\Exam\P1_2016-2017_Final_Handout\Debug\P1_2016-2017_Final_Handout.lib" /MACHINE:X86 Debug\Exercises.obj
+         Debug\Main.obj
+         P1_2016-2017_Final_Handout.vcxproj -> E:\C++\UPC Works\2016-2017\Final\Exam\P1_2016-2017_Final_Handout\Debug\P1_2016-2017_Final_Handout.exe
+     1>Done Building Project "E:\C++\UPC Works\2016-2017\Final\Exam\P1_2016-2017_Final_Handout\P1_2016-2017_Final_Handout.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.36
