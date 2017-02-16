@@ -13,5 +13,6 @@ int main()
 	printf("Hello Paquete!");
 
 	getchar();
+	getchar();
 	return 0;
 }
