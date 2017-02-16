@@ -1,2 +1,6 @@
 #TargetFrameworkVersion=v4.0:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=8.1
+<<<<<<< HEAD
 Debug|Win32|C:\Users\almac\OneDrive\Documentos\GitHub\prueba\P1_2016-2017_Final_Handout\|
+=======
+Debug|Win32|C:\Users\Ivan\Documents\GitHub\prueba\P1_2016-2017_Final_Handout\|
+>>>>>>> origin/master
