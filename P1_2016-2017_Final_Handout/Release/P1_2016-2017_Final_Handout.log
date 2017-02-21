@@ -1,0 +1,9 @@
+﻿  Exercises.cpp
+  Main.cpp
+Main.cpp(76): warning C4474: 'printf' : too many arguments passed for format string
+  Main.cpp(76): note: placeholders and their parameters expect 3 variadic arguments, but 4 were provided
+  Generating code
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  P1_2016-2017_Final_Handout.vcxproj -> C:\Users\ivandv\Documents\GitHub\prueba\P1_2016-2017_Final_Handout\Release\P1_2016-2017_Final_Handout.exe
+  P1_2016-2017_Final_Handout.vcxproj -> C:\Users\ivandv\Documents\GitHub\prueba\P1_2016-2017_Final_Handout\Release\P1_2016-2017_Final_Handout.pdb (Full PDB)

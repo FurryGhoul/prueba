@@ -1,2 +1,8 @@
-﻿  P1_2016-2017_Final_Handout.vcxproj -> C:\Users\Gaming\Documents\GitHub\prueba\P1_2016-2017_Final_Handout\Debug\P1_2016-2017_Final_Handout.exe
-  P1_2016-2017_Final_Handout.vcxproj -> C:\Users\Gaming\Documents\GitHub\prueba\P1_2016-2017_Final_Handout\Debug\P1_2016-2017_Final_Handout.pdb (Full PDB)
+﻿  Main.cpp
+c:\users\ivandv\documents\github\prueba\p1_2016-2017_final_handout\main.cpp(76): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\ivandv\documents\github\prueba\p1_2016-2017_final_handout\main.cpp(76): note: placeholders and their parameters expect 3 variadic arguments, but 4 were provided
+  Exercises.cpp
+  Generating Code...
+  LINK : C:\Users\ivandv\Documents\GitHub\prueba\P1_2016-2017_Final_Handout\Debug\P1_2016-2017_Final_Handout.exe not found or not built by the last incremental link; performing full link
+  P1_2016-2017_Final_Handout.vcxproj -> C:\Users\ivandv\Documents\GitHub\prueba\P1_2016-2017_Final_Handout\Debug\P1_2016-2017_Final_Handout.exe
+  P1_2016-2017_Final_Handout.vcxproj -> C:\Users\ivandv\Documents\GitHub\prueba\P1_2016-2017_Final_Handout\Debug\P1_2016-2017_Final_Handout.pdb (Full PDB)
